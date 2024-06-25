@@ -59,15 +59,15 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: # G-KBEBW24CD8 # fill in your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
   umami:
     id: # fill in your Umami ID
     domain: # fill in your Umami domain
   matomo:
-    id: # fill in your Matomo ID
-    domain: # fill in your Matomo domain
+    id: # 1 # fill in your Matomo ID
+    domain: # saltyoldgeek.matomo.cloud # fill in your Matomo domain
   cloudflare:
     id: # fill in your Cloudflare Web Analytics token
 
