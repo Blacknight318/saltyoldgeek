@@ -1,6 +1,6 @@
 ---
 title: "Proxmox Cluster Hardware: Lenovo & Raspberry Pi"
-description: Dive into my home lab's Proxmox cluster hardware featuring Lenovo Thinkcentre models and a Raspberry Pi. Learn about high availability, CEPH storage, and more.
+description: "Explore my home lab's Proxmox cluster hardware featuring Lenovo Thinkcentre and Raspberry Pi. Discover high availability, CEPH storage, and more."
 date: 2023-01-20 16:00:00 -0600
 categories: [Blogging]
 tags: [homelab, self-hosting, proxmox, lenovo, m700 tiny, m83 tiny, High Availability, CEPH storage, Raspberry Pi, UASP, DDR4, DDR3, M.2 SSD, Virtual Machines, networking]
