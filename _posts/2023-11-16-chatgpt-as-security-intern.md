@@ -1,6 +1,6 @@
 ---
 title: ChatGPT As Your New Security Intern
-description: 
+description: "Streamline your security audits with ChatGPT! This guide shows how to distill lengthy reports into actionable insights, perfect for small IT teams."
 author: saltyoldgeek
 date: 2023-11-16 14:38:00 -0500
 categories: [Blogging]

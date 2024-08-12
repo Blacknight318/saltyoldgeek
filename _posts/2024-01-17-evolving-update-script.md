@@ -13,7 +13,7 @@ image:
 
 ## The OG script in bash
 
-If you saw my post ["NanoPi Uptime Kuma Setup: A Quick Guide"](https://www.saltyoldgeek.com/posts/kuma-and-nanopi/?ref=internal) then you might remember the update script at the end. It was semi-purpose written just for that project to make things easier to update, without getting into something like Ansible or Portainer, which are both good options. For my situation I wanted something a bit more generic, even with ChatGPT, the bash script was a tad too cumbersome for me. That took me back to something a bit more familiar, Python.
+If you saw my post ["NanoPi Uptime Kuma Setup: A Quick Guide"](https://www.saltyoldgeek.com/posts/kuma-and-nanopi/) then you might remember the update script at the end. It was semi-purpose written just for that project to make things easier to update, without getting into something like Ansible or Portainer, which are both good options. For my situation I wanted something a bit more generic, even with ChatGPT, the bash script was a tad too cumbersome for me. That took me back to something a bit more familiar, Python.
 
 ## Evolving the script
 

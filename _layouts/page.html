@@ -14,7 +14,7 @@ layout: default
       {{ content }}
     </div>
   {% else %}
-    {% if paginator.page > 1 %}
+    {% if paginator.page > 1 and page.title != 'About' %}
       <meta name="robots" content="noindex">
     {% endif %}
     {{ content }}

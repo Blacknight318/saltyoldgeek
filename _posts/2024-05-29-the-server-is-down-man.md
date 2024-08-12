@@ -21,7 +21,7 @@ After a few failed attempts to restore this zombie LXC, I decided to try spinnin
 
 ### Building the LXC in Proxmox
 
-When I first started using [Proxmox](https://www.proxmox.com) there was a lot of experimentation to get things right. During that time I found an invaluable site to get things up and running quick, [Helper Scripts](https://helper-scripts.com/) by tteck. Let's use one of those to get the initial LXC up and running, in the shell of your Proxmox node paste in the following.
+When I first started using [Proxmox](https://www.proxmox.com/en/) there was a lot of experimentation to get things right. During that time I found an invaluable site to get things up and running quick, [Helper Scripts](https://tteck.github.io/Proxmox/) by tteck. Let's use one of those to get the initial LXC up and running, in the shell of your Proxmox node paste in the following.
 
 ```bash
 bash -c "$(wget -qLO - https://github.com/tteck/Proxmox/raw/main/ct/ubuntu.sh)"
@@ -78,7 +78,7 @@ Let's get that token, on Github do the following
 11. Change Commit Statuses to Read and Write
 12. Change Contents to Read and Write
 13. Change Pull requests to Read and Write
-14 Click Generate Token
+14. Click Generate Token
 15. Copy the token and paste it into a temporary note (once you leave the page you won't be able to use it again)
 
 Now we'll run the following commands to pull down our repo and set up Git. Either in the console through Proxmox, or an SSH session if you prefer, run the following.

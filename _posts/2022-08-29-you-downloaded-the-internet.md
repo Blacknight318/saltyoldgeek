@@ -19,4 +19,4 @@ When the call was over the green tech looked at me confused and was struggling t
 
 Sometimes you just have to travel a different path to get where you want to go, like downloading the internet.
 
-[The end.](http://endoftheinternet.com/)
+[The end.](https://endoftheinternet.com/)
