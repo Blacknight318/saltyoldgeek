@@ -31,4 +31,4 @@ The last issue to tackle was a little trickier. We were seeing intermittent exec
 
 Correcting the Parameters fields, ensuring account permissions and passwords meet requirements, cleared up those issue. This is a good reminder to subscribe and read the [Release Notes/Changelogs](https://learn.jamf.com/en-US/bundle/jamf-pro-release-notes-current/page/New_Features_and_Enhancements.html).
 
-If you found this article helpful consider [buying me a coffee](buymeacoffee.com/twitter2). Till next time, fair winds and following seas.
+If you found this article helpful consider [buying me a coffee](https://buymeacoffee.com/twitter2). Till next time, fair winds and following seas.
