@@ -6,7 +6,7 @@ date: 2024-09-30 16:40:00 -0500
 categories: [Blogging]
 tags: [proxmox, lxc, joplin, docker]
 image:
-  path: /assets/img/imagesjoplin-sync-server.webp
+  path: /assets/img/images/joplin-sync-server.webp
   height: 630
   width: 1200
 ---
