@@ -108,5 +108,5 @@ Any M series MacBook or Mac Mini should be up to the task and near ChatGPT perfo
 
 - [https://ollama.com/](https://ollama.com/)
 - [https://docs.openwebui.com](https://docs.openwebui.com)
-- [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop)
+- [https://www.docker.com/products/docker-desktop](https://www.docker.com/products/docker-desktop/)
 - [https://docs.docker.com/engine/install/ubuntu/#install-using-the-convenience-script](https://docs.docker.com/engine/install/ubuntu/#install-using-the-convenience-script)
