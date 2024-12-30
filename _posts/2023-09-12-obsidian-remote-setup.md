@@ -95,4 +95,5 @@ The initial reason that drew me to Obsidian-Remote was that I needed a way to ru
 This should be customizable just like regular Obsidian and, with the exception of git, should handle all your regular plugins. Have fun and till next time, fair winds and following seas.
 
 ### Sources
+
 REF: https://github.com/sytone/obsidian-remote#building-locally

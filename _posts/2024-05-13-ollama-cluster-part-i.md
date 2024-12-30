@@ -18,9 +18,9 @@ Having set up an Ollama + Open-WebUI machine in a previous post I started diggin
 Before we build a cluster we first need a stable node(server/instance). We'll start by creating a BoM(Bill of Materials) to test. Here's my starter list(NOTE: This is not a shopping list, you'll see why in a moment).
 
 - Lenovo M73 Tiny
-- [Mini PCIe to PCIe adapter](https://www.amazon.com/dp/B07F3TQ26Y?psc=1&ref=ppx_yo2ov_dt_b_product_details)
-- [USB C PD Power adapter](https://www.amazon.com/gp/product/B0BGJ1NF28/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&th=1)
-- [Nvidia Quadro K620](https://www.amazon.com/dp/B09MMHX514?psc=1&ref=ppx_yo2ov_dt_b_product_details)
+- [Mini PCIe to PCIe adapter](https://amzn.to/40eiGBu)
+- [USB C PD Power adapter](https://amzn.to/40cofjH)
+- [Nvidia Quadro K620](https://amzn.to/3DKBOOy)
 
 ## Experimenting
 

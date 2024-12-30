@@ -17,7 +17,7 @@ Just over three weeks ago I wrote a post titled: [Setting Up an Ollama + Open-We
 
 ## Round Two Setup
 
-Using the same Nvidia Quadro K620 and USB-C Power supply the only item left was the adapter and host machine. This time it was a Lenovo M700 Tiny and the [ADT-Link M.2 NGFF NVMe Key M Extender Cable](https://www.amazon.com/dp/B07YDH8KW9). Originally this was going to go into the Wifi card slot on the motherboard, what I didn't think to check was that while the NVME drive was M key the wifi card was A+E keyed, ok, let's try the NVME slot and temporary mode the drive to an external NVME-to-USB adapter. The drive booted with no problem, however NVIDIA card was not recognized at all, it did spin the fan as would be expected when signaled on, but no dice in ```lspci```.
+Using the same Nvidia Quadro K620 and USB-C Power supply the only item left was the adapter and host machine. This time it was a Lenovo M700 Tiny and the [ADT-Link M.2 NGFF NVMe Key M Extender Cable](https://amzn.to/3PgleJa). Originally this was going to go into the Wifi card slot on the motherboard, what I didn't think to check was that while the NVME drive was M key the wifi card was A+E keyed, ok, let's try the NVME slot and temporary mode the drive to an external NVME-to-USB adapter. The drive booted with no problem, however NVIDIA card was not recognized at all, it did spin the fan as would be expected when signaled on, but no dice in ```lspci```.
 
 ## Adapt to M.2 A+E Key?
 
