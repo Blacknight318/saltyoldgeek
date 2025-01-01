@@ -4,7 +4,7 @@ description: "Learn how to sync Joplin clients (Mac, Windows, iOS, Android) with
 author: saltyoldgeek
 date: 2024-12-30 00:30:00 -0500
 categories: [Blogging]
-tags: [proxmox, joplin, self, host, xda]
+tags: [proxmox, joplin, server, selfhosted, xda]
 image:
   path: /assets/img/images/joplin-client-og.webp
   height: 630
@@ -13,7 +13,7 @@ image:
 
 ## Recap
 
-It's been a minute since my last post, life happens, so here's a continuation of the previous post ["Self-Host a Joplin Sync Server in Proxmox"](https://www.saltyoldgeek.com//posts/self-host-joplin/). In that post we set up a self-hosted Joplin sync server, here we'll use that server to sync our [Joplin clients](https://joplinapp.org/download/) (be it Mac or Windows desktop, iPad, iPhone, or my favorite Android). We'll need the email and password we set up in the initial Docker Compose file on the server(or another user if you've added one).
+It's been a minute since my last post, life happens, so here's a continuation of the previous post ["Self-Host a Joplin Sync Server in Proxmox"](https://www.saltyoldgeek.com/posts/self-host-joplin/). In that post we set up a self-hosted Joplin sync server, here we'll use that server to sync our [Joplin clients](https://joplinapp.org/download/) (be it Mac or Windows desktop, iPad, iPhone, or my favorite Android). We'll need the email and password we set up in the initial Docker Compose file on the server(or another user if you've added one).
 
 ## Joplin client
 
