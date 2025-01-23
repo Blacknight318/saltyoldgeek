@@ -48,4 +48,4 @@ While looking for ways to improve performance, if not with shorter times than wi
 
 For the best value, the Raspberry Pi 5 with the Argon Neo NVME case is my second choice(only to an M series MacBook/Mac Mini with 16GB RAM). If you're comfortable with a little longer answer times or some prompt tweaking then running the Pi setup with Ollama and llama3.2:latest  is the sweet spot. I may go into cost more in a future post. That said, if you wanted more power I'd go for the MacBook or Mac Mini, any M series with +16GB RAM and you'd still come in under a PC with NVIDIA GPU(s) equivalent for the job.
 
-I hope you found this post helpful, if so consider [buying me a coffee](buymeacoffee.com/twitter2). till next time fair winds and following seas.
+I hope you found this post helpful, if so consider [buying me a coffee](https://buymeacoffee.com/twitter2). till next time fair winds and following seas.
