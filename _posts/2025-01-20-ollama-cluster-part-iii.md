@@ -2,7 +2,7 @@
 title: "Raspberry Pi 5 Ollama Llama3.x Performance"
 description: "Discover Raspberry Pi 5's AI performance with different cases like Argon Neo. Compare benchmarks with MacBook Air M3 and Ryzen 7 for cost-effective setups!"
 author: saltyoldgeek
-date: 2025-01-20 18:00:00 -0500
+date: 2025-01-20 17:05:00 -0500
 categories: [Blogging]
 tags: [ollama, openwebui,raspberry, pi, selfhost]
 image:
