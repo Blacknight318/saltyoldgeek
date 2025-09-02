@@ -13,6 +13,8 @@ image:
 
 *This post contains affiliate links. If you make a purchase through these links, I may earn a small commission at no extra cost to you. Thanks for supporting Salty Old Geek! It helps cover the costs of running the blog.*
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7RBtQb3IPLI?si=3P4rtOJmRXMQ6VyC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Why a Raspberry Pi 5
 
 Back in April of this year, I posted an article about setting up an [Ollam, Llama3, and OpenWebUI](https://www.saltyoldgeek.com/posts/ollama-llama3-openwebui/). In parts one and two I looked at trying to create a 1U unit with an external GPU using some adapters and setting up a server using an old gaming PC with the same external GPU([Nvidia Quadro K620](https://amzn.to/4a7NBTd)). This did work but was under-spec'd with only 2GB VRAM. In the search for a cost-effective node structure I've narrowed it down to 2 options, the first of which we'll go over in this post, the [Raspberry Pi 5 8GB RAM](https://amzn.to/423vY58). Let's dive in!
